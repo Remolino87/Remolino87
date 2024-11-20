@@ -1,17 +1,34 @@
-# Hola, soy Bernardo Recamales Gutiérrez 👋
+# ¡Hola! 👋 Soy Bernardo Recamales (RecamalesDeveloper)
 
-### Sobre mí:
-Soy un Desarrollador Python Junior con un fuerte enfoque en desarrollo web y Git, GitHub. He completado varios cursos y proyectos que demuestran mi capacidad para aprender rápidamente y aplicar el conocimiento a proyectos reales. Actualmente estoy buscando nuevas oportunidades para seguir creciendo en el campo de la programación y el desarrollo web.
+**Desarrollador Web en formación**, apasionado por crear aplicaciones prácticas y en constante aprendizaje. Mi objetivo es adquirir experiencia real en el desarrollo de software y formar parte de proyectos innovadores.
 
-### Habilidades Técnicas:
-- 🐍 Python
-- 🌐 Desarrollo web con Python
-- 🔧 Git y GitHub
-- 🖥️ Visual Studio Code
+### 🚀 **Habilidades**
+- **Aprendiendo:** Python, Django, HTML y CSS.
+- **Proyectos:** Gestor de Tareas, Calculadora, Sistema de Clientes.
+- **Próximo objetivo:** Completar mi portafolio personal con Django.
 
-### Proyectos Destacados:
-- **[Sistema de Gestión de Clientes](https://github.com/Remolino87/tu-repo-de-cliente)**: Un sistema para gestionar clientes utilizando Python, incluyendo la creación de una base de datos y funciones de consulta y actualización de registros.
-- **[Desarrollo Web con Python](https://github.com/Remolino87/tu-repo-web)**: Proyecto donde utilicé Python para crear una página web completa.
+### 🌟 **Proyectos Destacados**
+
+#### 1. **Gestor de Tareas**
+Aplicación que permite gestionar tareas simples: agregar, eliminar y editar.
+- **Tecnologías:** Python.
+- **Repositorio:** [Aquí](https://github.com/RecamalesDeveloper/gestor_de_tareas)
+
+#### 2. **Calculadora Básica**
+Programa funcional que realiza operaciones matemáticas básicas.
+- **Tecnologías:** Python.
+- **Repositorio:** [Aquí](https://github.com/RecamalesDeveloper/calculadora_b_sica)
+
+#### 3. **Sistema de Clientes**
+Sistema sencillo para registrar y gestionar información de clientes.
+- **Tecnologías:** Python.
+- **Repositorio:** [Aquí](https://github.com/RecamalesDeveloper/sistema_clientes)
+
+### 📫 **Contacto**
+- [LinkedIn](https://linkedin.com/in/bernardorecamales)
+- **Email:** bernardorecamales@gmail.com
+
+
 
 ### Contacto:
 - 💼 [LinkedIn](https://www.linkedin.com/in/bernardo-recamales-gutierrez-13b87a2a1/)
