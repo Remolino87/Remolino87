@@ -1,7 +1,7 @@
-# Hola, soy @Remolino87 👋
+# Hola, soy Bernardo Recamales Gutiérrez 👋
 
 ### Sobre mí:
-Soy un Desarrollador Python Junior con un fuerte enfoque en Git y GitHub, además de una pasión por la automatización. He completado varios cursos y proyectos que demuestran mi capacidad para aprender rápidamente y aplicar el conocimiento a proyectos reales. Actualmente estoy buscando nuevas oportunidades para seguir creciendo en el campo de la programación y la automatización.
+Soy un Desarrollador Python Junior con un fuerte enfoque en desarrollo web y Git, GitHub. He completado varios cursos y proyectos que demuestran mi capacidad para aprender rápidamente y aplicar el conocimiento a proyectos reales. Actualmente estoy buscando nuevas oportunidades para seguir creciendo en el campo de la programación y el desarrollo web.
 
 ### Habilidades Técnicas:
 - 🐍 Python
